@@ -1,0 +1,5 @@
+
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Region,State/Province,Division,Product Name,Sales,Units,Factory
+O-1,2023-01-01,2023-01-04,Standard,C-1,East,NY,Chocolate,Wonka Bar - Nutty Crunch Surprise,200,10,Lot's O' Nuts
+O-2,2023-01-02,2023-01-06,Expedited,C-2,South,TX,Sugar,Laffy Taffy,150,8,Sugar Shack
+O-3,2023-01-05,2023-01-07,Standard,C-3,West,CA,Other,Wonka Gum,300,15,Secret Factory
